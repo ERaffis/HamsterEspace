@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Platform
+  - Checkpoint
+  - Joueur
+  - Victory
+  - PlatformEnd
+  - DropEnter
+  - DropExit
+  - Ground_Enemy
+  - Flying_Enemy
+  - DisableJump
+  - Mov_Platform
+  - OpenDoor
+  - toIgnore
+  - DeleteSpike
+  - Mov_Platform_2
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground & Platform
+  - Spikes & Acid
+  - Enemies
+  - Particles
+  - Bubbles
+  - Falling Spike
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Particles
+    uniqueID: 2656096519
+    locked: 0
+  - name: BackGroundParticle
+    uniqueID: 1038538841
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0

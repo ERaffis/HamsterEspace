@@ -1,0 +1,1118 @@
+fileFormatVersion: 2
+guid: 92d9c640da6c8d64ba820a8e7487ff1b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4499719802630338358
+    second: Goos1_0
+  - first:
+      213: 8371482048988614059
+    second: Goos1_1
+  - first:
+      213: 7409843228433914910
+    second: Goos1_2
+  - first:
+      213: 5358952332582932850
+    second: Goos1_3
+  - first:
+      213: 4406550027404140067
+    second: Goos1_4
+  - first:
+      213: 7342289139060893178
+    second: Goos1_5
+  - first:
+      213: 3240034384373511193
+    second: Goos1_6
+  - first:
+      213: 8367747861404416547
+    second: Goos1_7
+  - first:
+      213: -7918369844445927573
+    second: Goos1_8
+  - first:
+      213: -3411891043060813054
+    second: Goos1_9
+  - first:
+      213: -7213255467208506084
+    second: Goos1_10
+  - first:
+      213: 6948570496084278651
+    second: Goos1_11
+  - first:
+      213: -607374137052010060
+    second: Goos1_12
+  - first:
+      213: -3918106034734526499
+    second: Goos1_13
+  - first:
+      213: 5653085217995044474
+    second: Goos1_14
+  - first:
+      213: 5421562833686145619
+    second: Goos1_15
+  - first:
+      213: -2196842097826946269
+    second: Goos1_16
+  - first:
+      213: -34607510645767158
+    second: Goos1_17
+  - first:
+      213: -524317142137029733
+    second: Goos1_18
+  - first:
+      213: 1720743001079245126
+    second: Goos1_19
+  - first:
+      213: -159347729754452351
+    second: Goos1_20
+  - first:
+      213: -6692918163649768130
+    second: Goos1_21
+  - first:
+      213: -3505556046794137745
+    second: Goos1_22
+  - first:
+      213: 3476016160409531116
+    second: Goos1_23
+  - first:
+      213: 2249665404335109333
+    second: Goos1_24
+  - first:
+      213: -161835709241907413
+    second: Goos1_25
+  - first:
+      213: 6959181321845217199
+    second: Goos1_26
+  - first:
+      213: 4443929212076250621
+    second: Goos1_27
+  - first:
+      213: -4914894859342452829
+    second: Goos1_28
+  - first:
+      213: 5723971625417321563
+    second: Goos1_29
+  - first:
+      213: 1903887101977712716
+    second: Goos1_30
+  - first:
+      213: 2047525718604256477
+    second: Goos1_31
+  - first:
+      213: -8738689934203655050
+    second: Goos1_32
+  - first:
+      213: 3021396601820891508
+    second: Goos1_33
+  - first:
+      213: 1490857973838611697
+    second: Goos1_34
+  - first:
+      213: -4973619817406579776
+    second: Goos1_35
+  - first:
+      213: 1717426912118139133
+    second: Goos1_36
+  - first:
+      213: 1151902562982353898
+    second: Goos1_37
+  - first:
+      213: -6571479392202093731
+    second: Goos1_38
+  - first:
+      213: -1194673432346857940
+    second: Goos1_39
+  - first:
+      213: -7562715740738134228
+    second: Goos1_40
+  - first:
+      213: 2974036017820078467
+    second: Goos1_41
+  - first:
+      213: 1612523168768510799
+    second: Goos1_42
+  - first:
+      213: 3504609856799122667
+    second: Goos1_43
+  - first:
+      213: -8705210135778337896
+    second: Goos1_44
+  - first:
+      213: -9096012663211281675
+    second: Goos1_45
+  - first:
+      213: 1743463299451215562
+    second: Goos1_46
+  - first:
+      213: -7642066493399081630
+    second: Goos1_47
+  - first:
+      213: -2753840018362887341
+    second: Goos1_48
+  - first:
+      213: 535330596475226006
+    second: Goos1_49
+  - first:
+      213: -7651286624405159434
+    second: Goos1_50
+  - first:
+      213: -4657636541102525228
+    second: Goos1_51
+  - first:
+      213: -5420551114172007942
+    second: Goos1_52
+  - first:
+      213: -4841790022934960906
+    second: Goos1_53
+  - first:
+      213: 2036881583247799092
+    second: Goos1_54
+  - first:
+      213: 1243991911968483956
+    second: Goos1_55
+  - first:
+      213: 5733172353839683519
+    second: Goos1_56
+  - first:
+      213: -5923155000175639115
+    second: Goos1_57
+  - first:
+      213: -6675899109944750092
+    second: Goos1_58
+  - first:
+      213: 1517126840927333315
+    second: Goos1_59
+  - first:
+      213: -3291701491345118129
+    second: Goos1_60
+  - first:
+      213: 1868588049136262374
+    second: Goos1_61
+  - first:
+      213: 1470987163965133653
+    second: Goos1_62
+  - first:
+      213: -7562855330203215523
+    second: Goos1_63
+  - first:
+      213: 6863308662849534436
+    second: Goos1_64
+  - first:
+      213: 3017693211325233377
+    second: Goos1_65
+  - first:
+      213: 2879017538277728980
+    second: Goos1_66
+  - first:
+      213: -3654728916519139531
+    second: Goos1_67
+  - first:
+      213: 7535455123446675834
+    second: Goos1_68
+  - first:
+      213: -803997186463809990
+    second: Goos1_69
+  - first:
+      213: -6500059499464666031
+    second: Goos1_70
+  - first:
+      213: 429687253203432794
+    second: Goos1_71
+  - first:
+      213: -4841924096149769912
+    second: Goos1_72
+  - first:
+      213: -744824147168413246
+    second: Goos1_73
+  - first:
+      213: -7436393181107219763
+    second: Goos1_74
+  - first:
+      213: 5901203453039047087
+    second: Goos1_75
+  - first:
+      213: -7611596843492636627
+    second: Goos1_76
+  - first:
+      213: 1118768169787257830
+    second: Goos1_77
+  - first:
+      213: -4198266930911358708
+    second: Goos1_78
+  - first:
+      213: -22299806349984744
+    second: Goos1_79
+  - first:
+      213: 330723193907337951
+    second: Goos1_80
+  - first:
+      213: 3814535054170045287
+    second: Goos1_81
+  - first:
+      213: 6238040591899237072
+    second: Goos1_82
+  - first:
+      213: -7421797649427814961
+    second: Goos1_83
+  - first:
+      213: 4983519391008011276
+    second: Goos1_84
+  - first:
+      213: -1656563997548342991
+    second: Goos1_85
+  - first:
+      213: 9162182915606266751
+    second: Goos1_86
+  - first:
+      213: 949751611235973635
+    second: Goos1_87
+  - first:
+      213: 6693102802242077970
+    second: Goos1_88
+  - first:
+      213: 552435369539335395
+    second: Goos1_89
+  - first:
+      213: -811093757799336879
+    second: Goos1_90
+  - first:
+      213: 6419367536386398803
+    second: Goos1_91
+  - first:
+      213: -8870940378924519920
+    second: Goos1_92
+  - first:
+      213: -213845263418756810
+    second: Goos1_93
+  - first:
+      213: 2264530201210077599
+    second: Goos1_94
+  - first:
+      213: 541538720963650193
+    second: Goos1_95
+  - first:
+      213: -8695743392191759622
+    second: Goos1_96
+  - first:
+      213: -9202381701512295598
+    second: Goos1_97
+  - first:
+      213: 5989760568419741850
+    second: Goos1_98
+  - first:
+      213: -9172843573666963654
+    second: Goos1_99
+  - first:
+      213: -5702524900630139204
+    second: Goos1_100
+  - first:
+      213: 747686356273696256
+    second: Goos1_101
+  - first:
+      213: -2728216644625952248
+    second: Goos1_102
+  - first:
+      213: -1293307488472703686
+    second: Goos1_103
+  - first:
+      213: -4847859228977779534
+    second: Goos1_104
+  - first:
+      213: 7062991415811730999
+    second: Goos1_105
+  - first:
+      213: -3094298758788028661
+    second: Goos1_106
+  - first:
+      213: -2855287541922479423
+    second: Goos1_107
+  - first:
+      213: 8412247644569801535
+    second: Goos1_108
+  - first:
+      213: -8746762128340369750
+    second: Goos1_109
+  - first:
+      213: -6568329263517169266
+    second: Goos1_110
+  - first:
+      213: 6295339589811157351
+    second: Goos1_111
+  - first:
+      213: -458905347567367132
+    second: Goos1_112
+  - first:
+      213: -5689200090998399905
+    second: Goos1_113
+  - first:
+      213: 1412516484169605683
+    second: Goos1_114
+  - first:
+      213: -7107525499832294368
+    second: Goos1_115
+  - first:
+      213: -6362105764078820595
+    second: Goos1_116
+  - first:
+      213: -3383737346012898681
+    second: Goos1_117
+  - first:
+      213: 6798872892205025879
+    second: Goos1_118
+  - first:
+      213: -2970910335457243401
+    second: Goos1_119
+  - first:
+      213: -6481687399722727034
+    second: Goos1_120
+  - first:
+      213: 4252537385065399181
+    second: Goos1_121
+  - first:
+      213: -2135543053632835644
+    second: Goos1_122
+  - first:
+      213: -8992771886470197639
+    second: Goos1_123
+  - first:
+      213: -1293560640190070970
+    second: Goos1_124
+  - first:
+      213: -7836826603358297998
+    second: Goos1_125
+  - first:
+      213: 7242275236853637502
+    second: Goos1_126
+  - first:
+      213: -7197976766140900275
+    second: Goos1_127
+  - first:
+      213: 8971357597693320762
+    second: Goos1_128
+  - first:
+      213: -1038816270391478235
+    second: Goos1_129
+  - first:
+      213: -5183191719442044657
+    second: Goos1_130
+  - first:
+      213: 6827986896738172619
+    second: Goos1_131
+  - first:
+      213: -6204989872196697417
+    second: Goos1_132
+  - first:
+      213: -6191321907209206203
+    second: Goos1_133
+  - first:
+      213: 8344783685421911393
+    second: Goos1_134
+  - first:
+      213: 93669117898396912
+    second: Goos1_135
+  - first:
+      213: -301894531137287304
+    second: Goos1_136
+  - first:
+      213: -8635046846604209438
+    second: Goos1_137
+  - first:
+      213: 582728655350696472
+    second: Goos1_138
+  - first:
+      213: -1501520955507103805
+    second: Goos1_139
+  - first:
+      213: 679023883310770429
+    second: Goos1_140
+  - first:
+      213: -4320367388418383113
+    second: Goos1_141
+  - first:
+      213: 2277452488786560494
+    second: Goos1_142
+  - first:
+      213: 6675462311396027566
+    second: Goos1_143
+  - first:
+      213: -431096572225032511
+    second: Goos1_144
+  - first:
+      213: 4445848396774853678
+    second: Goos1_145
+  - first:
+      213: -890348856865560689
+    second: Goos1_146
+  - first:
+      213: -3257423321046518954
+    second: Goos1_147
+  - first:
+      213: 160547540609967699
+    second: Goos1_148
+  - first:
+      213: -4211530382816714921
+    second: Goos1_149
+  - first:
+      213: 4339918381580303399
+    second: Goos1_150
+  - first:
+      213: -8224679427551579531
+    second: Goos1_151
+  - first:
+      213: 4049593188213248332
+    second: Goos1_152
+  - first:
+      213: -1619274254145022969
+    second: Goos1_153
+  - first:
+      213: -7705244081967875024
+    second: Goos1_154
+  - first:
+      213: -1562416576926494071
+    second: Goos1_155
+  - first:
+      213: 2167599034147081429
+    second: Goos1_156
+  - first:
+      213: 2584725273852821964
+    second: Goos1_157
+  - first:
+      213: 3919207464679444756
+    second: Goos1_158
+  - first:
+      213: -4115133446104288332
+    second: Goos1_159
+  - first:
+      213: 4745210251553620128
+    second: Goos1_160
+  - first:
+      213: -8508027065668749357
+    second: Goos1_161
+  - first:
+      213: 7240960353426419476
+    second: Goos1_162
+  - first:
+      213: -3585781227363353843
+    second: Goos1_163
+  - first:
+      213: -3654658261438241722
+    second: Goos1_164
+  - first:
+      213: 8763604913336916066
+    second: Goos1_165
+  - first:
+      213: 7157446294878574990
+    second: Goos1_166
+  - first:
+      213: 8930335112621095794
+    second: Goos1_167
+  - first:
+      213: -7954943388606961607
+    second: Goos1_168
+  - first:
+      213: 746228870629223848
+    second: Goos1_169
+  - first:
+      213: -1956753630569041364
+    second: Goos1_170
+  - first:
+      213: 2795742071577817761
+    second: Goos1_171
+  - first:
+      213: 2817603134322575996
+    second: Goos1_172
+  - first:
+      213: -5709459854365072682
+    second: Goos1_173
+  - first:
+      213: 5224995384860978434
+    second: Goos1_174
+  - first:
+      213: 464137814261361358
+    second: Goos1_175
+  - first:
+      213: 1848234693651871664
+    second: Goos1_176
+  - first:
+      213: -2533576775592612384
+    second: Goos1_177
+  - first:
+      213: 3039110356693809376
+    second: Goos1_178
+  - first:
+      213: -2799200326696115458
+    second: Goos1_179
+  - first:
+      213: 1523956539238369250
+    second: Goos1_180
+  - first:
+      213: 8680248313829218388
+    second: Goos1_181
+  - first:
+      213: -5143678742647415285
+    second: Goos1_182
+  - first:
+      213: 5057488369975548584
+    second: Goos1_183
+  - first:
+      213: 3499927132781242538
+    second: Goos1_184
+  - first:
+      213: -7701085432219655498
+    second: Goos1_185
+  - first:
+      213: 1647065606073905517
+    second: Goos1_186
+  - first:
+      213: 8122224985865361357
+    second: Goos1_187
+  - first:
+      213: -8710421487051381380
+    second: Goos1_188
+  - first:
+      213: -4926310575883682308
+    second: Goos1_189
+  - first:
+      213: 79965464631974815
+    second: Goos1_190
+  - first:
+      213: 1881257359561637567
+    second: Goos1_191
+  - first:
+      213: -2252443516921940223
+    second: Goos1_192
+  - first:
+      213: 6135543970619563510
+    second: Goos1_193
+  - first:
+      213: -5610999161169370450
+    second: Goos1_194
+  - first:
+      213: 6089743993712922021
+    second: Goos1_195
+  - first:
+      213: 9005081255606505982
+    second: Goos1_196
+  - first:
+      213: 639158993578106708
+    second: Goos1_197
+  - first:
+      213: -3526098695003472809
+    second: Goos1_198
+  - first:
+      213: 6968224609484725080
+    second: Goos1_199
+  - first:
+      213: -7325524729433054955
+    second: Goos1_200
+  - first:
+      213: -2412897187347081044
+    second: Goos1_201
+  - first:
+      213: 2826298709859418849
+    second: Goos1_202
+  - first:
+      213: 1433136138152118387
+    second: Goos1_203
+  - first:
+      213: 1638488276857828726
+    second: Goos1_204
+  - first:
+      213: -3578356504146666842
+    second: Goos1_205
+  - first:
+      213: -4585688032927156104
+    second: Goos1_206
+  - first:
+      213: -4804844995788372927
+    second: Goos1_207
+  - first:
+      213: -4850720673190098143
+    second: Goos1_208
+  - first:
+      213: 5603070873624740876
+    second: Goos1_209
+  - first:
+      213: 3360551921071541251
+    second: Goos1_210
+  - first:
+      213: 7410718574162401676
+    second: Goos1_211
+  - first:
+      213: 5963914745435189553
+    second: Goos1_212
+  - first:
+      213: 2452449258035923514
+    second: Goos1_213
+  - first:
+      213: -4363939287259211389
+    second: Goos1_214
+  - first:
+      213: 3244780915952112944
+    second: Goos1_215
+  - first:
+      213: 5730583683288957431
+    second: Goos1_216
+  - first:
+      213: 8681197562203132497
+    second: Goos1_217
+  - first:
+      213: 4824698199238992901
+    second: Goos1_218
+  - first:
+      213: 152950364985775081
+    second: Goos1_219
+  - first:
+      213: -5626021225688627855
+    second: Goos1_220
+  - first:
+      213: -7490506894405095711
+    second: Goos1_221
+  - first:
+      213: 4403086694449297094
+    second: Goos1_222
+  - first:
+      213: -6765028801512130921
+    second: Goos1_223
+  - first:
+      213: -3022134307047805116
+    second: Goos1_224
+  - first:
+      213: 2604242968401452840
+    second: Goos1_225
+  - first:
+      213: 6297937534746540512
+    second: Goos1_226
+  - first:
+      213: -4344362045463891790
+    second: Goos1_227
+  - first:
+      213: 7668292199134172079
+    second: Goos1_228
+  - first:
+      213: -8632746308744343849
+    second: Goos1_229
+  - first:
+      213: 8292450903889564485
+    second: Goos1_230
+  - first:
+      213: 2090652160268512049
+    second: Goos1_231
+  - first:
+      213: 4038173012183405398
+    second: Goos1_232
+  - first:
+      213: -234793979065142913
+    second: Goos1_233
+  - first:
+      213: -7312851671884049586
+    second: Goos1_234
+  - first:
+      213: 150330411483719382
+    second: Goos1_235
+  - first:
+      213: 8728935722720615040
+    second: Goos1_236
+  - first:
+      213: -6800607647166937593
+    second: Goos1_237
+  - first:
+      213: -2242386760253181212
+    second: Goos1_238
+  - first:
+      213: 6542894152440244372
+    second: Goos1_239
+  - first:
+      213: 4146867174156106114
+    second: Goos1_240
+  - first:
+      213: 2725945655602876997
+    second: Goos1_241
+  - first:
+      213: 2707972822102358919
+    second: Goos1_242
+  - first:
+      213: 6521012807948282926
+    second: Goos1_243
+  - first:
+      213: -8106554407995807010
+    second: Goos1_244
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Goos1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: -8}
+        - {x: -8, y: 8}
+        - {x: -7, y: 8}
+        - {x: -4, y: 5}
+        - {x: 8, y: 5}
+        - {x: 8, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac88d671ea8cd81c0800000000000000
+      internalID: -4499719802630338358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goos1_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: -8}
+        - {x: -8, y: 5}
+        - {x: 8, y: 5}
+        - {x: 8, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad868dc19a7d2470800000000000000
+      internalID: 8371482048988614059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goos1_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: -8}
+        - {x: -8, y: 5}
+        - {x: 4, y: 5}
+        - {x: 7, y: 8}
+        - {x: 8, y: 8}
+        - {x: 8, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c1320482d05d660800000000000000
+      internalID: 7409843228433914910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goos1_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2715bd7e0c2de5a40800000000000000
+      internalID: 5358952332582932850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goos1_4
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e596c27e5372d30800000000000000
+      internalID: 4406550027404140067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goos1_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: af5eee3221d05e560800000000000000
+      internalID: 7342289139060893178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goos1_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91472ac2b1ae6fc20800000000000000
+      internalID: 3240034384373511193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goos1_7
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a7b018856302470800000000000000
+      internalID: 8367747861404416547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goos1_8
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67a2ad649c4c1290800000000000000
+      internalID: -7918369844445927573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
